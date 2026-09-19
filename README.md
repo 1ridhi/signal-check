@@ -1,4 +1,4 @@
-# SignalCheck — Static HTML MVP
+# SignalCheck — Static HTML 
 
 Hackathon ID: AZIS-NGWZTT
 
